@@ -1,3 +1,9 @@
+<h1 align="center">Nathan Septian</h1>
+
+<p align="center">
+  <strong>Full Stack Developer</strong>
+</p>
+
 - 👋 Hi, I’m @Nathansept
 - 🎓 I am Nathan, a Software Engineer (specializing in Back End Development). I am Graduated my Bachelor's in Information Technology mid-2024.
 - 👀 I’m interested in Fullstack Programming
@@ -6,8 +12,9 @@
 - 📫 How to reach me https://www.linkedin.com/in/nathan-septian-7276b2201/ or https://www.instagram.com/nathansept/
 
 Connect with me 🤙
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-septian-7276b2201/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathansept/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathansept/)
 <!---
 Nathansept/Nathansept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
